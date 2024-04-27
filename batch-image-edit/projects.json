@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Video-Conferencing-App-Android",
+      "description": "Sleek, intuitive video conferencing app designed for Android, leveraging the power of Kotlin to deliver a seamless virtual meeting experience. With real-time video and audio capabilities."
+    },
+    {
+      "name": "Music-Streaming-App-Android",
+      "description": "Music streaming app crafted with Kotlin for Android users. Dive into a world of endless music, discover new artists, and curate your perfect playlist. With its user-friendly interface and robust features."
+    },
+    {
+      "name": "Performance-Analyzer-Web-Data-Science",
+      "description": "Maximize your team's potential with this innovative performance analysis web app. Leveraging the robustness of Django and the agility of React, it offers a dynamic grading system to evaluate and enhance employee productivity."
+    },
+    {
+      "name": "Medical-Diagnosis-ML",
+      "description": "Discover an intuitive medical diagnosis app that uses advanced machine learning to assess your symptoms quickly and accurately. Simply describe how you're feeling, and the app's smart algorithms will analyze the information in real-time."
+    },
+    {
+      "name": "Photo-Segregator-ML",
+      "description": "This innovative tool automatically groups similar photos together, making it easy to organize and manage your photo collection. Simply upload your photos, and the app does the rest, saving you time and effort."
+    },
+    {
+      "name": "Emotion-Based-Playlist-Generator-ML",
+      "description": "Introducing our Emotion Based Playlist Generator, a unique tool that creates personalized playlists tailored to your mood. Using advanced natural language processing technology, this app analyses text input to understand your emotions and preferences."
+    },
+    {
+      "name": "RSVP-website-Web",
+      "description": "RSVP webpage, designed to streamline event registrations and make planning a breeze! Easily register for upcoming events by providing your essential details, such as name, contact information, and any additional preferences or requirements."
+    },
+    {
+      "name": "Hackathon-Website-Web",
+      "description": "Your go-to platform for discovering, registering, and staying updated on exciting hackathon events! Whether you're a seasoned coder or a curious beginner, our webpage offers a comprehensive list of upcoming hackathons."
+    },
+    {
+      "name": "Leaderboard-Website-Web",
+      "description": "Our leaderboard aggregates data from platforms like LeetCode, HackerRank, and Codeforces to showcase top performers and rising stars in the programming community. Easily see where you stand among peers by connecting your accounts and syncing your progress."
+    },
+    {
+      "name": "Web-Scraper",
+      "description": "Web scraper application is a powerful tool designed to extract data from websites automatically. This application navigates through web pages, simulating human browsing behavior, to gather specific information based on user-defined criteria."
+    },
+    {
+      "name": "HoneyPot-Cybersecurity",
+      "description": "The HoneyPot project is a cybersecurity technique that involves deploying decoy systems, services, or applications within a network to lure and deceive attackers. The primary goal of a HoneyPot is to detect, monitor, and gather information about unauthorized access attempts."
+    },
+    {
+      "name": "Network-Analyser-Sniffer-Cybersecurity",
+      "description": "A network analyzer or sniffer project is a cybersecurity tool used to monitor and analyze network traffic in real-time. It captures and decodes packets traversing a network, providing detailed insights into communication patterns, protocols used, and potential security threats."
+    },
+    {
+      "name": "Algorithm-Visualiser-DSA",
+      "description": "Algorithm Visualizer application is a powerful tool designed to visually represent and analyze computer algorithms, providing insights into their performance, behavior, and efficiency."
+    },
+    {
+      "name": "Database-Version-Control",
+      "description": "Database version control system project is a tool designed to manage changes to databases, ensuring versioning, collaboration, and integrity of database schemas and data."
+    },
+    {
+      "name": "VR-app-Android",
+      "description": "A virtual reality (VR) project using Kotlin for Android involves leveraging Kotlin's capabilities to develop immersive VR experiences on Android devices. Kotlin is a versatile programming language that integrates seamlessly with Android."
+    }
+  ]
